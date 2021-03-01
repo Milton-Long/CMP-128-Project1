@@ -1,0 +1,17 @@
+body{
+    background-color:aquamarine;
+}
+
+.navigation{
+    font-size: large;
+    font-family: serif, 'Times New Roman', Times, serif;
+}
+
+.paragraph{
+    font-size: 20px;
+}
+
+.contact{
+    text-align: center;
+    font-size: 20px;
+}
